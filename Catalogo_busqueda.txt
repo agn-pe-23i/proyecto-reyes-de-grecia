@@ -1,0 +1,11 @@
+Peliculas:
+
+Título: El gran hotel Budapest   Actor principal: Tony Revolori   Director: Wes Anderson   Año: 2014   Costo de renta: 30   Costo de venta: 60
+Título: Megamente   Actor principal: Will Ferrell   Director: Tom McGrath   Año: 2010   Costo de renta: 30   Costo de venta: 60
+Título: sdf   Actor principal: sdf   Director: sdf   Año: sdf   Costo de renta: 30   Costo de venta: 60
+Series:
+
+
+Título: Breaking Bad   Actriz o actor principal: Bryan Cranston   Directora o director: Vince Gilligan   Temporadas: 5   Costo de renta: 30   Costo de venta: 60Documentales:
+
+Eventos Deportivos:
