@@ -6,6 +6,7 @@
 -Ochoa De La Cruz Bryan Tonatiuh
 -Gustavo Angel Morales Vigi
 ## Diagrama de estructura
+![programación diagrama](https://github.com/agn-pe-23i/proyecto-reyes-de-grecia/assets/125591190/ab459c25-80d0-4ade-aa09-e38d21b9db6b)
 
 
 El diagrama de estructura del programa "Servicio Streaming" consta de dos módulos principales. El primero se encarga de mostrar el menú de opciones al usuario. El segundo módulo se encarga de ejecutar una instrucción específica en función de la opción seleccionada por el usuario.
