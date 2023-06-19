@@ -1,3 +1,13 @@
+"""Programa Servicio Streaming 
+    El programa permite interactuar con un catalogo de servicio de streaming
+    
+    -Contiene un menu que facilita al usauario implementar cada accion 
+    
+    -Almacena los datos modificdos sin afectar el documento original, 
+    estos se veran reflejados en el hasta que el usuario decida guardar el catalogo
+    
+
+"""
 
 import Agregar_producto, Eliminar_producto, Mostrar_catalogo, Cargar_catalogo, Guardar_catalogo, Buscar_producto
 # importamos los archivoa que contienen los modulos que se ocuparan
