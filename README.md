@@ -6,4 +6,4 @@
 -Ochoa De La Cruz Bryan Tonatiuh
 -Gustavo Angel Morales Vigi
 ## Diagrama de estructura
-![image](https://drive.google.com/file/d/1sIa5YHx0mfR62oLC8aR72d1CpGS_f5vp/view?usp=drive_link)
+
