@@ -1,4 +1,0 @@
-Series:
-Título: Breaking Bad   Actriz o actor principal: Bryan Cranston   Directora o director: Vince Gilligan   Temporadas: 5   Costo de renta: 30   Costo de venta: 60
-Título: Sombra y hueso   Actriz o actor principal: Jessi Mei Li   Directora o director: Eric Heisserer   Temporadas: 2   Costo de renta: 30   Costo de venta: 60
-Título: The good doctor   Actriz o actor principal:  Freddie Highmore   Directora o director: Jaume Balagueró   Temporadas: 5   Costo de renta: 30   Costo de venta: 60
