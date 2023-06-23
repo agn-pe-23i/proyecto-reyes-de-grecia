@@ -1,0 +1,21 @@
+Peliculas:
+Título: El gran hotel Budapest   Actor principal: Tony Revolori   Director: Wes Anderson   Año: 2014   Costo de renta: 30   Costo de venta: 60
+Título: Megamente	actor principal: Will Ferrell	director: Tom McGrath	año: 2010
+
+Título: The Flash	actor principal: Ezra Miller	director: Andrés Muschietti	año: 2023
+Series:
+Título: Breaking Bad   Actriz o actor principal: Bryan Cranston   Directora o director: Vince Gilligan   Temporadas: 5   Costo de renta: 40   Costo de venta: 80
+Título: Sombra y hueso	actor principal: Jessi Mei Li	director: Eric Heisserer	Temporadas: 2
+Título: The good doctor	actor principal: Freddie Highmore	director: Jaume Balagueró	Temporadas: 5
+Documentales:
+Título: Hongos fantásticos   Directora o director: Louie Schwartzberg   Tema: Hongos   Año: 2019   Costo de renta: 90   Costo de venta: 180
+Título: Hongos fantásticos	director: Louie Schwartzberg	Tema: Hongos		Año: 2019
+
+Título: Nostalgia de la luz	director: Patricio Guzmán	Tema: Astronomía	Año: 2010
+
+Título: Mi maestro el pulpo	director: James Reed		Tema: Pulpos		Año: 2020
+
+Eventos deportivos en vivo:
+Título: Superbowl 2019   Deporte: Fútbol americano   Fecha: 3 de febrero   Hora: hora: 5:30   Lugar: Mercedes-Benz Stadium   Costo de venta: 200
+Título: Superbowl 2019		deporte: Fútbol americano	fecha: 3 de febrero	hora: 5:30 	lugar: Mercedes-Benz Stadium
+Título: Final FIFA CATAR 2022	deporte: Fútbol soccer		fecha: 18 de diciembre 	hora:4:00	lugar:lusail
